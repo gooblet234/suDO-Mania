@@ -3,4 +3,4 @@ Disallow: /*?*
 Allow: /$
 Allow: /faq$
 Allow: /api/getBeatmaps
-Sitemap: https://webosumania.com/sitemap.xml
+Sitemap: https://gooblet234.github.io/suDO-Mania/sitemap.xml
